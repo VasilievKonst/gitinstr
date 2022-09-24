@@ -2,7 +2,12 @@
 
 Шаг 1. Скачать ПО для работы 
 Скачать Git по ссылке:
+
+[GIT](https://git-scm.com/downloads)
+
 Скачать VS code по ссылке:
+
+[VS Code](https://code.visualstudio.com/)
 
 Шаг 2. Создать папку для работы и выбрать рабочий файл
 
