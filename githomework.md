@@ -37,5 +37,7 @@
 
 ## Шаг 3. Оформление текста в Markdown (~~Шпаргалка~~): ##
 
-[]()
+![](tomarkdown.png)
+
+[Более **подробно** по ссылке на GitHub](https://github.com/sandino/Markdown-Cheatsheet?ysclid=l8fukmmi4d988383442)
 
