@@ -3,11 +3,15 @@
 ## Шаг 1. Скачать ПО для работы ##
 Скачать Git по ссылке:
 
-[GIT](https://git-scm.com/downloads)
+* [GIT](https://git-scm.com/downloads)
 
 Скачать VS code по ссылке:
 
-[VS Code](https://code.visualstudio.com/)
+* [VS Code](https://code.visualstudio.com/)
+
+Выполнить регистрацию на GITHUB для дальнейшей работы
+
+* [GITHUB](https://github.com/?ysclid=l8ihoqggdd358761195)
 
 ## Шаг 2. Создать папку для работы и выбрать рабочий файл ##
 
